@@ -1,0 +1,6 @@
+{
+  "name": "Scholarship Radar – Verified Education Opportunities & Grants",
+  "description": "Discover verified government scholarships, university fellowships, fully funded study abroad opportunities, and financial aid for students in Pakistan and worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
